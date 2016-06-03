@@ -2,5 +2,5 @@
 Topics covered include:
 
 * Stereotype threat
-* Implicity bias
+* Implicit bias
 
