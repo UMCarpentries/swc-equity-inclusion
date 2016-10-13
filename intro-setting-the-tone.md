@@ -2,6 +2,8 @@
 
 ## Setting the Tone
 
+*Instructor's Note:* Participants should have been asked to read ["Stereotype Threat: A Summary of the Problem"](https://dynamicecology.wordpress.com/2014/04/28/stereotype-threat-a-summary-of-the-problem/) as preparation for Day 1.
+
 ### Code of Conduct
 
 [Code of Conduct](http://software-carpentry.org/conduct/)
@@ -10,6 +12,8 @@ Everyone in this room belongs here.
 You have exactly the right background, training, and amount of experience that you need to participate in this workshop.
 
 ### Implicit Bias
+
+*Instructor's Note:* Participants should keep their eyes closed while you or your co-instructor tally the responses. The intent is that the participants see that most of them independently pictured the same person, even though they were only given an occupation as a prompt.
 
 * Close your eyes, I want you to **picture a Police Chief.**
     * Raise your hand if the person you're picturing is white.
@@ -22,6 +26,8 @@ You have exactly the right background, training, and amount of experience that y
     https://www.theinformation.com/introducing-the-informations-future-list
 
 ### Stereotype Threat
+
+We hope you all read  ["Stereotype Threat: A Summary of the Problem"](https://dynamicecology.wordpress.com/2014/04/28/stereotype-threat-a-summary-of-the-problem/); does anyone have any reactions or thoughts to offer about what they read?
 
 So, all of us, to some degree, have preconceived notions about what groups of people are qualified for certain jobs.
 
