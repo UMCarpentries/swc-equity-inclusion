@@ -13,12 +13,13 @@ You have exactly the right background, training, and amount of experience that y
 
 ### Implicit Bias
 
+#### Optional Exercise
+
 *Instructor's Note:* Participants should keep their eyes closed while you or your co-instructor tally the responses. The intent is that the participants see that most of them independently pictured the same person, even though they were only given an occupation as a prompt.
 
-* Close your eyes, I want you to **picture a Police Chief.**
-    * Raise your hand if the person you're picturing is white.
-    * Raise your hand if the person you're picturing is male.
-    * Keep your hand raised if the person you're picturing has a moustache.
+1. "Close your eyes, I want you to **picture a [job title here]...**"
+2. "Raise your hand if the person you're picturing..."
+3. The intent is to record on a whiteboard/ Etherpad this person's characteristics (e.g., sex, ethnicity, glasses/ no glasses) that, as we will see, are independent of the job title.
 
 **Why does this matter?**
 
