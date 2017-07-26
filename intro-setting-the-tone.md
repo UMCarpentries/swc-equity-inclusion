@@ -23,6 +23,7 @@ You have exactly the right background, training, and amount of experience that y
 
 **Why does this matter?**
 
+    http://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding
     http://techcrunch.com/2014/06/25/facebook-diversity/
     https://www.theinformation.com/introducing-the-informations-future-list
 
